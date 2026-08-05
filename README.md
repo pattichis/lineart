@@ -1,7 +1,7 @@
 # HOUSE PROJECT
 
 ## Objective:  
-To create a drawing of a house using Python and basic knowledge of linear equations and creating a small movie that depicts the creation.
+To create a drawing of a house using Python and basic knowledge of linear equations and create a small movie that depicts the creation.
 
 ## Prior Knowledge:  
 Students should understand how to write linear equations and how to include domain and range in the equations.
@@ -11,11 +11,10 @@ New Knowledge:  Prior to the project, the students will get an introduction to P
 Students will work in groups of 3 or 4 and collectively work through the assigned Python introductory lessons, which involve writing, running, troubleshooting, and recording their work.  After they complete the basic introduction to Python computing, they will try to collectively create a simple house.  They will be shown a video of what the final product should look like.  The house should be a basic rectangle structure with a door, at least one window, a roof, and something in front of the house like a fence, yard, or pathway.  As students create the program, they record each step as a movie frame.  At the end, the final project will consist of them running their movie, which will be a digital animation of their house being assembled.  
 
 ## Extensions:
-
-•	Students can add features to the house using Python code.
-•	Students can create different features in their animation using quadratic or exponential functions.
-•	Students can make the house 3-dimensional.
-•	Students can create a neighborhood map using Python code.
+*	Students can add features to the house using Python code.
+* Students can create different features in their animation using quadratic or exponential functions.
+* Students can make the house 3-dimensional.
+* Students can create a neighborhood map using Python code.
 
 # lineart
 
