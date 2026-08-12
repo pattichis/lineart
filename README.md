@@ -3,8 +3,11 @@
 ## Objective:  
 To create a drawing of a house using Python and basic knowledge of linear equations and create a small movie that depicts the creation.
 
+# Student project video example
+[Student project video](https://github.com/user-attachments/assets/77ab2606-258c-41ca-822f-5f0253858178)
 
 [Student project example code (Google Colab)](https://colab.research.google.com/github/pattichis/lineart/blob/main/House_Project_C1_video3.ipynb)
+[(pdf)](https://github.com/pattichis/lineart/blob/main/House_Project_C1_video3.pdf)
 
 
 ## Prior Knowledge:  
