@@ -3,6 +3,10 @@
 ## Objective:  
 To create a drawing of a house using Python and basic knowledge of linear equations and create a small movie that depicts the creation.
 
+
+[Student project example code (Google Colab)](https://colab.research.google.com/github/pattichis/lineart/blob/main/House_Project_C1_video3.ipynb)
+
+
 ## Prior Knowledge:  
 Students should understand how to write linear equations and how to include domain and range in the equations.
 New Knowledge:  Prior to the project, the students will get an introduction to Python and its basic capabilities.  This will give students opportunities to write and troubleshoot basic programs and allow them to build their knowledge by doing basic tasks.  This also includes recording their work.
