@@ -1,7 +1,7 @@
 # HOUSE PROJECT
 
 ## Objective:  
-To create a drawing of a house using Python and basic knowledge of linear equations and create a small movie that depicts the creation.
+To create a drawing of a house using Python and basic knowledge of linear equations, and create a small movie that depicts the creation.
 
 # Student project video example
 [Student project video](https://github.com/user-attachments/assets/77ab2606-258c-41ca-822f-5f0253858178)
@@ -44,5 +44,8 @@ The Google Colab notebooks below provide an introduction to Python and the funct
 * Draw parallel lines
 * Draw a house using line art
 * Generate frames using line art
-* Create a video animation using lien art
-  
+* Create a video animation using line art
+
+## Acknowledgement
+Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+
