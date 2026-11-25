@@ -1,4 +1,5 @@
-# HOUSE PROJECT [(switch to Spanish)](README_es.md)
+# [Switch to Spanish](README_es.md) 
+# HOUSE PROJECT
 ## Objective:  
 To create a drawing of a house using Python and basic knowledge of linear equations, and create a small movie that depicts the creation.
 
